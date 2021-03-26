@@ -1,4 +1,4 @@
-#Hauptdatei
+#Hauptdatei 
 from pipeline import load_data
 def main():
     data_path = '../data/techcrunch.csv'
